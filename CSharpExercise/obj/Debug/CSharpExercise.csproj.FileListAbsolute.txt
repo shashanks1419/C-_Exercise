@@ -1,0 +1,8 @@
+C:\Users\sshekhar\source\repos\CSharpExercise\CSharpExercise\obj\Debug\CSharpExercise.csproj.AssemblyReference.cache
+C:\Users\sshekhar\source\repos\CSharpExercise\CSharpExercise\obj\Debug\CSharpExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\sshekhar\source\repos\CSharpExercise\CSharpExercise\obj\Debug\CSharpExercise.csproj.CoreCompileInputs.cache
+C:\Users\sshekhar\source\repos\CSharpExercise\CSharpExercise\bin\Debug\CSharpExercise.exe.config
+C:\Users\sshekhar\source\repos\CSharpExercise\CSharpExercise\bin\Debug\CSharpExercise.exe
+C:\Users\sshekhar\source\repos\CSharpExercise\CSharpExercise\bin\Debug\CSharpExercise.pdb
+C:\Users\sshekhar\source\repos\CSharpExercise\CSharpExercise\obj\Debug\CSharpExercise.exe
+C:\Users\sshekhar\source\repos\CSharpExercise\CSharpExercise\obj\Debug\CSharpExercise.pdb
